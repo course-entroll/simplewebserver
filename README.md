@@ -1,5 +1,5 @@
-<img width="221" alt="Screenshot 2024-03-24 212746" src="https://github.com/andralikitha/simplewebserver/assets/131592130/12a3fcfa-1d7a-457b-8e3e-9b6d5ecb1589"># EX01 Developing a Simple Webserver
-## Date:
+# EX01 Developing a Simple Webserver
+## Date: 23/03/2024
 
 ## AIM:
 To develop a simple webserver to serve html pages.
